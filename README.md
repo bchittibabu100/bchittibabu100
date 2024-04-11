@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chittibabu</h1>
 <h3 align="center">A passionate cloud devops engineer</h3>
-<img align="center" alt="Coding" width="1000" src="https://www.indiumsoftware.com/wp-content/uploads/2023/07/Cloud-Native-DevOps-and-Kubernetes-for-Modern-Applications.jpg">
+<img align="center" alt="Coding" width="1000" src="https://www.heliossolutions.co/blog/wp-content/uploads/2018/11/Devops-And-Cloud-The-Synergy-Driving-Digital-Transformation-In-Enterprises.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bchittibabu100&label=Profile%20views&color=0e75b6&style=flat" alt="bchittibabu100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bchittibabu100" alt="bchittibabu100" /></a> </p>
